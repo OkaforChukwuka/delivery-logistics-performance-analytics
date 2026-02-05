@@ -1,6 +1,6 @@
 # 🚚 Cs AquaFarm – Delivery Performance Overview
 
-![Dashboard Preview](delivery_dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/OkaforChukwuka/delivery-logistics-performance-analytics/refs/heads/main/Screenshot%202026-01-16%20180032.png)
 
 ## 📊 Project Overview
 This project analyzes delivery operations and logistics performance for **Cs AquaFarm**.  
